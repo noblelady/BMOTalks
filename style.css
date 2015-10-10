@@ -1,0 +1,35 @@
+body{
+	background-color: #00B28F;
+	font-family: Impact, Charcoal, sans-serif;
+}
+h1{
+	font-size: 80px;
+	text-align: center;
+	margin: 0px 0px 10px 0px;
+}
+.content{
+	text-align: center;
+}
+img{
+	margin-top: 0px;
+}
+#start_button{
+	background-color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	border-radius: 10px;
+	margin-top: 0px;
+}
+#start_button:active {
+  background-color: #E6E6E6;
+}
+#results{
+	margin-top: 5px;
+	margin-bottom: 0px;
+	text-align: center;
+	/*border: 1px solid black;
+	border-radius: 2px;*/
+	height: 20px;
+}
+#msg{
+	font-size: 10px;
+}
